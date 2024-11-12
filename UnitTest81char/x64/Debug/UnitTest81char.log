@@ -1,0 +1,6 @@
+﻿  UnitTest81char.cpp
+C:\laboratory works\laboratory8.1char\laboratory8.1char\laboratory8.1char.cpp(16,11): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/UnitTest81char.cpp')
+  
+     Creating library C:\laboratory works\laboratory8.1char\x64\Debug\UnitTest81char.lib and object C:\laboratory works\laboratory8.1char\x64\Debug\UnitTest81char.exp
+  UnitTest81char.vcxproj -> C:\laboratory works\laboratory8.1char\x64\Debug\UnitTest81char.dll
